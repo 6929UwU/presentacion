@@ -1,0 +1,91 @@
+*{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagina{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    color: rgb(118, 8, 2);
+    font-size: 70px;
+}
+
+.cabeza{
+    text-align: center;
+}
+
+.nombre{
+    margin-left: 545px;
+    width: 400px;
+    border: solid; color: rgb(0, 0, 0);
+   text-shadow: 3px 5px 5px crimson;
+    
+}
+
+.img1{
+    margin-top: 100px;
+    width: 500px;
+    margin-bottom: 40px;
+}
+
+.all2{
+    margin-left: 20px;
+}
+
+.mi{
+    font-size: 30px;
+    color: crimson;
+    text-decoration: underline;
+}
+
+.gusta{
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+.img2{
+width: 300px;
+margin-right: 30px;
+}
+
+.img3{
+    width: 300px;
+    margin-right: 30px;
+}
+
+.img4{
+    width: 600px;
+    margin-right: 30px;
+}
+
+.hoy{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.all3{
+    margin-left: 20px;
+}
+
+.pais{
+    font-size: 25px;
+    color: rgb(196, 18, 54);
+    text-decoration: underline;
+}
+
+.me{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.img5{
+    margin-top: 30px;
+    width: 300px;
+    margin-right: 30px;
+}
+
+.img6{
+    width: 450px;
+}
